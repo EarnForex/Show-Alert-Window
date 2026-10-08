@@ -6,6 +6,6 @@ Its main purpose is to provide a quick and easy way to see alerts if a trader ha
 
 ![Alert window popup in MetaTrader 4](https://github.com/EarnForex/Show-Alert-Window/blob/main/README_Images/mt4-alert-window.png)
 
-More information about this custom MetaTrader script is available here: [https://www.earnforex.com/metatrader-scripts/breakeven/](https://www.earnforex.com/metatrader-scripts/show-alert-window/)https://www.earnforex.com/metatrader-scripts/show-alert-window/
+More information about this custom MetaTrader script is available here: https://www.earnforex.com/metatrader-scripts/show-alert-window/
 
 All contributions to the code are welcome!
